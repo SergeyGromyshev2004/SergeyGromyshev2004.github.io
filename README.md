@@ -12,6 +12,7 @@ href="https://portal.tpu.ru/lyceum"><img![logo](https://user-images.githubuserco
 src="img![logo](https://user-images.githubusercontent.com/114712725/206614722-7a12f055-e6ed-45ee-bf8f-e57cbb744f91.jpg)
 "></a>
 </div>
+    </div>
 
 $$\ce{3C^2-H2=C^2-H2 + 2KMn^+^7O4 + 4H2O = 2KOH + 2Mn^+^4O2 + 3C^-H2(OH) - C^-H2(OH)}$$
 
