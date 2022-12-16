@@ -10,10 +10,10 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Мои рисунки</title>
  </head>
  <body>
-  <p><img src="images/dzen.png" alt="Письма мастера дзен"></p>
+  <p><img src="logo.jpg" alt="img![logo](https://user-images.githubusercontent.com/114712725/206614722-7a12f055-e6ed-45ee-bf8f-e57cbb744f91.jpg)
+"></a>"></p>
  </body>
 </html>
     
