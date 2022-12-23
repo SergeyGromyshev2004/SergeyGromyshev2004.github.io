@@ -48,3 +48,4 @@ while len(a)>0:
     else:
         h+=1
 print(f'количество ошибок: {h}')
+![mermaid-diagram-2022-12-23-092236](https://user-images.githubusercontent.com/114712725/209258993-496fb5aa-8421-4356-8b1d-04e46dbda575.png)
