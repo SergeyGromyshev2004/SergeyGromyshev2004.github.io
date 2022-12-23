@@ -49,4 +49,5 @@ while len(a)>0:
         h+=1
 print(f'количество ошибок: {h}')
 ![mermaid-diagram-2022-12-23-092236](https://user-images.githubusercontent.com/114712725/209258993-496fb5aa-8421-4356-8b1d-04e46dbda575.png)
-![mermaid-diagram-2022-12-23-092236](https://user-images.githubusercontent.com/114712725/209261407-c8710d79-68ba-4f10-b690-925ae992f23a.png)
+![Снимок экрана (18)](https://user-images.githubusercontent.com/114712725/209261479-489fe47f-5b23-41a5-8263-179d23cc3e11.png)
+
